@@ -2,6 +2,7 @@
 Finale for CS-340
 
 How do you write programs that are maintainable, readable, and adaptable? 
+
 In this project we made maintainable code by following industry practices such as using non-project-specific terminology to promote reusability of the low level code. This increase both adaptability and maintainability by granting users the ability to switch passwords and users without modifying underline code elements. Because of the nature of the CRUD Python Module with a few more modifications we can use the module for any application requires access to a mongo database. This naturally means that adaptability is built into the code while maintaining efficiency.
 
 How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
