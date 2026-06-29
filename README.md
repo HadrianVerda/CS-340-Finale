@@ -1,2 +1,13 @@
 # CS-340-Finale
 Finale for CS-340
+
+How do you write programs that are maintainable, readable, and adaptable? 
+In this project we made maintainable code by following industry practices such as using non-project-specific terminology to promote reusability of the low level code. This increase both adaptability and maintainability by granting users the ability to switch passwords and users without modifying underline code elements. Because of the nature of the CRUD Python Module with a few more modifications we can use the module for any application requires access to a mongo database. This naturally means that adaptability is built into the code while maintaining efficiency.
+
+How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+
+Before approaching any coding project I do preliminary research to understand what I am doing and why. For the Grazioso Salvare project my first step was to create a list of functions that might be helpful in the design of the project. For modules six I implemented an extra feature from the example in the Jupyter notebook which provided the base code to the buttons later in development. This style of studying has allowed me to maintain information for a far longer time period that I otherwise would be able to. For instance the reason NoSQL is preferred over SQL comes down to the scalability limitations on SQL servers and the value of MongoDB over other NoSQL solutions comes down to the databases flexibility and the integration of tools from all over the NoSQL landscape. In the future I plan to centralize research specifically to design elements and principles that will help develop code that meets expectations efficiently.
+
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+Computer Scientists work on High level Architecture and design of software. Typically this means the communication between files the design of module architecture and the choices behind operating systems and hardware architecture. Programming is an essential aspect of this as understanding what makes good clean efficient code allows use to better optimize communication across large networks of classes and files. Here we can further help companies like Grazioso Salvare by ensuring efficient, user-friendly and correct functionality over an entire network of software.
